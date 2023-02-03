@@ -14,4 +14,13 @@ permalink: /about/
 ```
 
 <br>
-Software Developer. Keyboard Enthusiast. My cat doesn't listen to me.
+# About me
+Software Developer. Keyboard Enthusiast. Highly caffeinated. My cat doesn't listen to me.
+
+# Interests
+Software development, digital culture and privacy, building custom keyboards, board games.
+
+# Tools
+* Computer: 16 inch 2021 MacBook Pro
+* Keyboard: Low profile Corne running zmk firmware
+* Editor: VSCode, Neovim
