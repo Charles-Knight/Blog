@@ -4,15 +4,12 @@ title: /about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+ ____     __                       ___                      __  __                      __      __      
+/\  _`\  /\ \                     /\_ \                    /\ \/\ \          __        /\ \    /\ \__   
+\ \ \/\_\\ \ \___      __     _ __\//\ \      __    ____   \ \ \/'/'    ___ /\_\     __\ \ \___\ \ ,_\  
+ \ \ \/_/_\ \  _ `\  /'__`\  /\`'__\\ \ \   /'__`\ /',__\   \ \ , <   /' _ `\/\ \  /'_ `\ \  _ `\ \ \/  
+  \ \ \L\ \\ \ \ \ \/\ \L\.\_\ \ \/  \_\ \_/\  __//\__, `\   \ \ \\`\ /\ \/\ \ \ \/\ \L\ \ \ \ \ \ \ \_ 
+   \ \____/ \ \_\ \_\ \__/.\_\\ \_\  /\____\ \____\/\____/    \ \_\ \_\ \_\ \_\ \_\ \____ \ \_\ \_\ \__\
+    \/___/   \/_/\/_/\/__/\/_/ \/_/  \/____/\/____/\/___/      \/_/\/_/\/_/\/_/\/_/\/___L\ \/_/\/_/\/__/
+                                                                                     /\____/            
+                                                                                     \_/__/             
