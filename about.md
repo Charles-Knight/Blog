@@ -13,6 +13,5 @@ permalink: /about/
     \/___/   \/_/\/_/\/__/\/_/ \/_/  \/____/\/____/\/___/ 
 ```
 
----
 
 Software Developer. Keyboard Enthusiast. My cat doesn't listen to me.
