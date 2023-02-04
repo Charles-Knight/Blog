@@ -14,7 +14,7 @@ permalink: /about/
 ```
 
 <br>
-# About me
+# About Me
 Software Developer. Keyboard Enthusiast. Highly caffeinated. My cat doesn't listen to me.
 
 # Interests
