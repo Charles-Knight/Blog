@@ -13,7 +13,6 @@ permalink: /about/
     \/___/   \/_/\/_/\/__/\/_/ \/_/  \/____/\/____/\/___/ 
 ```
 
-<br>
 # About Me
 Software Developer. Keyboard Enthusiast. Highly caffeinated. My cat doesn't listen to me.
 
