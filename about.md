@@ -13,13 +13,19 @@ permalink: /about/
     \/___/   \/_/\/_/\/__/\/_/ \/_/  \/____/\/____/\/___/ 
 ```
 
-# About Me
-Software Developer. Keyboard Enthusiast. Highly caffeinated. My cat doesn't listen to me.
+## About Me
 
-# Interests
-Software development, digital culture and privacy, building custom keyboards, board games.
+Software Developer. Keyboard Enthusiast. Highly caffeinated. My cat doesn't 
+listen to me.
 
-# Tools
+## Interests
+
+Software development, digital culture and privacy, building custom keyboards, 
+board games.
+
+## Tools
+
 * Computer: 16 inch 2021 MacBook Pro
 * Keyboard: Low profile Corne running zmk firmware
 * Editor: VSCode, Neovim
+
