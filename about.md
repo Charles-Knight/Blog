@@ -26,5 +26,5 @@ board games.
 ## Tools
 
 * Computer: 16 inch 2021 MacBook Pro
-* Keyboard: Low profile Corne running zmk firmware
+* Keyboard: Low profile Corne running ZMK firmware
 * Editor: VSCode, Neovim
