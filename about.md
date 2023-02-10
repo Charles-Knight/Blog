@@ -3,7 +3,7 @@ layout: page
 title: /about
 permalink: /about/
 ---
-```
+```plaintext
  ____     __                       ___                      
 /\  _`\  /\ \                     /\_ \                    
 \ \ \/\_\\ \ \___      __     _ __\//\ \      __    ____  
@@ -15,12 +15,12 @@ permalink: /about/
 
 ## About Me
 
-Software Developer. Keyboard Enthusiast. Highly caffeinated. My cat doesn't 
+Software Developer. Keyboard Enthusiast. Highly caffeinated. My cat doesn't
 listen to me.
 
 ## Interests
 
-Software development, digital culture and privacy, building custom keyboards, 
+Software development, digital culture and privacy, building custom keyboards,
 board games.
 
 ## Tools
@@ -28,4 +28,3 @@ board games.
 * Computer: 16 inch 2021 MacBook Pro
 * Keyboard: Low profile Corne running zmk firmware
 * Editor: VSCode, Neovim
-
