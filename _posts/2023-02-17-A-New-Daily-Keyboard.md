@@ -7,7 +7,7 @@ tags: keyboards
 
 I recently built a the Crowboard, from Keyboard Dweebs and it may be my new favorite board.
 
-![ An image of a split unibody keyboard with low profile purple keycaps.]({{ site.baseurl | prepend: site.url }}/images/IMG_2730.pngSmall)
+![ An image of a split unibody keyboard with low profile purple keycaps.]({{ site.baseurl | prepend: site.url }}/images/IMG_2730Small.png)
 
 The Crowboard is a split unibody keyboard, controlled by the Raspberry Pie Nano. I elected to build mine with Kailh Choc Pro Red switches and MBK legend keycaps.
 
