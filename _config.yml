@@ -22,7 +22,7 @@ title: A Blog
 github_username: Charles-Knight
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog...
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: /Blog # the subpath of your site, e.g. /blog
 domain: 
 url: # the base hostname & protocol for your site, e.g. http://example.com
 
