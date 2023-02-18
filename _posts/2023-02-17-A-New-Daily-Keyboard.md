@@ -1,13 +1,13 @@
-———
+---
 layout: post
 title:  “A New Daily Keyboard? The Crowboard”
 date:   2023-02-17 23:18:00 -0800
 tags: keyboards
-———
+---
 
 I recently built a the Crowboard, from Keyboard Dweebs and it may be my new favorite board.
 
-![ An image of a split unibody keyboard with low profile purple keycaps.](/_images/IMG_2730.heic “The Crowboard”)
+![ An image of a split unibody keyboard with low profile purple keycaps.](/_images/IMG_2730.png “The Crowboard”)
 
 The Crowboard is a split unibody keyboard, controlled by the Raspberry Pie Nano. I elected to build mine with Kailh Choc Pro Red switches and MBK legend keycaps.
 
