@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Swear This Isn't a Keyboard Blog"
-date: 2023-04-26 22:04:00 -0800
+date: 2023-04-26 12:04:00 -0800
 tags: keyboards
 ---
 
