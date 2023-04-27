@@ -11,6 +11,7 @@ My last post emphatically expressed my adoration for the Crowboard which I had r
 2. It doesn't run ZMK. I really love configuring my boards with ZMK.
 3. Micro USB. Need I say more in 2023?
 
+
 With those issues in mind I set out to find a new board that retained the features I love about the Crowboard, while improving on the qualities that I found disagreeable. The board that I stumbled upon was the Zaphod.
 
 ![ An image of a split unibody keyboard with low profile pink and purple keycaps.]({{ site.baseurl | prepend: site.url }}/images/IMG_3262.png){:width="100%"}
